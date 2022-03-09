@@ -1,5 +1,5 @@
-## 👋 Hey there
-<p align="left">I'm Aiden, a front-end web developer. Currently, I'm focused on learning as much as I can about web development in hopes of turning my passion into a career.</p>
+## 👋 Hi
+<p align="left">I am a front-end developer. Currently, I am focused on learning as much as I can about web development in hopes of turning my hobby into a career.</p>
 
 ## 🎯 Goals
 <ul>
