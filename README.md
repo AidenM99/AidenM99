@@ -13,8 +13,9 @@
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/><br><span ><b>CSS</b></span></td> 
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/><br><span><b>JavaScript</b></span></td> 
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="65"/><br><span><b>Bootstrap</b></span></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="65" height="65"/><br><span><b>Sass</b></span></td> 
-<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/><br><span><b>Git</b></span></td>  
-<td align="center"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="65" height="65"/><br><span><b>Jest</b></span></td> 
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="65" height="65"/><br><span><b>Sass</b></span></td>  
+<td align="center"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="65" height="65"/><br><span><b>Jest</b></span></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/><br><span><b>Git</b></span></td> 
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/npm/npm-original-wordmark.svg" alt="npm" width="65" height="65"/><br><span><b>Npm</b></span></td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="65" height="65"/><br><span><b>Webpack</b></span></td>
 </table>
