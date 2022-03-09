@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aiden</h1>
-<h3 align="center">I'm a web developer.</h3>
+<h1 align="left">Hi 👋</h1>
+<h3 align="center">I'm Aiden, a web developer based in the UK.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
