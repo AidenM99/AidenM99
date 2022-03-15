@@ -1,5 +1,5 @@
 ## 👋 Hi
-<p align="left">I'm Aiden, a frontend developer currently looking for new opportunities.</p>
+<p align="left">I'm Aiden, a front-end developer currently looking for new opportunities.</p>
 
 ## 🎯 Goals
 <ul>
