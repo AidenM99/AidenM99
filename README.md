@@ -1,11 +1,11 @@
 ## 👋 Hi
-<p align="left">I'm Aiden, a front-end developer currently looking for new opportunities.</p>
+<p align="left">I'm Aiden, a web developer currently looking for new opportunities. </p>
 
 ## 🎯 Goals
 <ul>
   <li>Learn React</li>
-  <li>Practice more with Jest</li>
   <li>Learn Backend</li>
+  <li>Practice more with test-driven development</li>
 </ul>
 
 ## 💻 Languages and Tools:
