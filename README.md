@@ -1,4 +1,4 @@
-<h1 align="center">https://aidenm99.github.io/portfolio-v2/</h1>
+<h1 align="center">https://aidenm99.github.io/portfolio/</h1>
 
 ## 👋 Hi
 <p align="left">I'm Aiden, a web developer currently looking for new opportunities. </p>
