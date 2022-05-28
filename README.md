@@ -5,9 +5,8 @@
 
 ## 🎯 Goals
 <ul>
+  <li>Learn Node, MongoDB and Express</li>
   <li>Practice more with test-driven development</li>
-  <li>Build more projects with React</li>
-  <li>Learn Backend</li>
 </ul>
 
 ## 💻 Languages and Tools:
