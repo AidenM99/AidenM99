@@ -26,8 +26,5 @@
 </tr>
 </table>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 ## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenM99&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
