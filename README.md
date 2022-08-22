@@ -5,8 +5,9 @@
 
 ## 🎯 Goals
 <ul>
-  <li>Learn Node, MongoDB and Express</li>
-  <li>Practice more with test-driven development</li>
+  <li>Learn the MERN stack</li>
+  <li>Learn Typescript and its benefits</li>
+  <li>Learn NextJS and its benefits</li>
 </ul>
 
 ##
