@@ -1,7 +1,7 @@
 <h1 align="center">https://aidenm99.github.io/portfolio/</h1>
 
 ## 👋 Hi
-<p align="left">I'm Aiden, a web developer currently looking for new opportunities. </p>
+<p align="left">I'm Aiden, a front-end developer currently looking for new opportunities. </p>
 
 ## 🎯 Goals
 <ul>
